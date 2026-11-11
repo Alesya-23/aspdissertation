@@ -1,0 +1,7 @@
+model-2-q8_0.gguf
+saiga_gemma3_12b-q4_k_m.gguf
+saiga_yandexgpt_8b-q4_k_m.gguf
+YandexGPT-5-Lite-8B-instruct-Q4_K_M.gguf
+.venv
+llama.cpp
+.vscode
