@@ -4,4 +4,8 @@ saiga_yandexgpt_8b-q4_k_m.gguf
 YandexGPT-5-Lite-8B-instruct-Q4_K_M.gguf
 .venv
 llama.cpp
-.vscode
+data/
+_scratch/
+__pycache__/
+*.pyc
+.vscode/

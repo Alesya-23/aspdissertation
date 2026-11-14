@@ -1,0 +1,15 @@
+# Версии зафиксированы под Python 3.11 / Windows / CUDA 12.1.
+# torch ставится отдельно под вашу CUDA, здесь он не фиксируется.
+numpy>=1.26,<3
+sentence-transformers==3.3.1
+transformers==4.46.3
+tokenizers==0.20.3
+huggingface-hub==0.26.2
+safetensors==0.4.5
+faiss-cpu==1.9.0.post1
+snowballstemmer==2.2.0
+tqdm>=4.66
+regex>=2024.5
+PyYAML>=6.0
+filelock>=3.13
+packaging>=23.0
